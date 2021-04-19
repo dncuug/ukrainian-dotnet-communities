@@ -14,6 +14,10 @@
 
 **Kharkiv F# User Group** [Facebook Group](https://www.facebook.com/groups/kharkivfsharp/)
 
-**Kyiv F# User Group** [Facebook Page](https://www.facebook.com/Kyiv-F-User-Group-301476363381673/) [Twitter](https://twitter.com/KyivFSharpGroup)
+**Kyiv F# User Group** [Facebook Page](https://www.facebook.com/Kyiv-F-User-Group-301476363381673/) | [[Twitter](https://twitter.com/KyivFSharpGroup)
 
 **.NET Community Rivne** [Facebook Page](https://www.facebook.com/net.community.rv/)
+
+**Sync.NET** [Website](https://sync.net.ua) | [Facebook Page](https://www.facebook.com/SyncNETteam/) | [Meetup.com](https://www.meetup.com/sync-net-kharkiv/) | [YouTube](https://www.youtube.com/channel/UC5X18_zJ0uE3X956dlvMgBQ)
+
+**.NET learning community** [Telegram Chat](https://t.me/joinchat/EJwCAxQyIxqFMKiPduekvA)
