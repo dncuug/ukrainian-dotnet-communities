@@ -15,3 +15,5 @@
 **Kharkiv F# User Group** [Facebook Group](https://www.facebook.com/groups/kharkivfsharp/)
 
 **Kyiv F# User Group** [Facebook Page](https://www.facebook.com/Kyiv-F-User-Group-301476363381673/) [Twitter](https://twitter.com/KyivFSharpGroup)
+
+**.NET Community Rivne** [Facebook Page](https://www.facebook.com/net.community.rv/)
