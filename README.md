@@ -2,6 +2,10 @@
 
 **Ukrainian .NET Core User Group** [Website](https://devdigest.today/content/ukrainian-net-core-user-group) | [Telegram Channel](https://t.me/dncuug) | [Telegram Chat](https://t.me/dotnet_chat) | [Facebook Page](https://www.facebook.com/dncuug) |  [Facebook Group](https://www.facebook.com/groups/dncuug)
 
+**Microsoft Azure Ukraine User Group** [Facebook Group](https://www.facebook.com/groups/azure.ua) | [Telegram Chat](https://t.me/azurechat)
+
+**Xamarin Ukraine User Group** [Facebook Page](https://www.facebook.com/xamarin.ua) | [Facebook Group](https://www.facebook.com/groups/xamarin.ua/) | [Telegram Channel](https://t.me/xamarin_digest) | [Telegram Chat](https://t.me/xamarin_ukraine)
+
 **Odessa Microsoft .NET User Group** [Website](http://www.usergroup.od.ua) | [Facebook Group](https://www.facebook.com/groups/110079325731271/)
 
 **Lviv .NET User Group** [Website](http://lviv.dotnet.city) | [Facebook Page](https://www.facebook.com/LvivDotNet) | [Facebook Group](https://www.facebook.com/groups/LvivDotNet) | [Twitter](https://twitter.com/lvivdotnet) | [Telegram Chat](https://t.me/lvivdotnet)
@@ -14,7 +18,7 @@
 
 **Kharkiv F# User Group** [Facebook Group](https://www.facebook.com/groups/kharkivfsharp/)
 
-**Kyiv F# User Group** [Facebook Page](https://www.facebook.com/Kyiv-F-User-Group-301476363381673/) | [[Twitter](https://twitter.com/KyivFSharpGroup)
+**Kyiv F# User Group** [Facebook Page](https://www.facebook.com/Kyiv-F-User-Group-301476363381673/) | [Twitter](https://twitter.com/KyivFSharpGroup)
 
 **.NET Community Rivne** [Facebook Page](https://www.facebook.com/net.community.rv/)
 
