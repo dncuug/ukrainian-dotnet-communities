@@ -14,6 +14,8 @@
 
 **.NET learning community** [Telegram Chat](https://t.me/joinchat/EJwCAxQyIxqFMKiPduekvA)
 
+**Uneta** [Website](http://uneta.ua) | [Facebook Page](https://www.facebook.com/uneta.ua/)
+
 
 ## Dnipro
 
