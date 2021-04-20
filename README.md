@@ -1,7 +1,8 @@
-# Ukrainian .NET Communities
+# 🇺🇦 Ukrainian .NET Communities
 
 ## Global Communities
-**Ukrainian .NET Core User Group** [Website](https://devdigest.today/content/ukrainian-net-core-user-group) | [Telegram Channel](https://t.me/dncuug) | [Telegram Chat](https://t.me/dotnet_chat) | [Facebook Page](https://www.facebook.com/dncuug) |  [Facebook Group](https://www.facebook.com/groups/dncuug)
+
+**Ukrainian .NET Core User Group** [Website](https://devdigest.today/content/ukrainian-net-core-user-group) | [Telegram Channel](https://t.me/dncuug) | [Telegram Chat](https://t.me/dotnet_chat) | [Facebook Page](https://www.facebook.com/dncuug) | [Facebook Group](https://www.facebook.com/groups/dncuug)
 
 **Microsoft Azure Ukraine User Group** [Facebook Group](https://www.facebook.com/groups/azure.ua) | [Telegram Chat](https://t.me/azurechat)
 
@@ -12,24 +13,14 @@
 **.NET learning community** [Telegram Chat](https://t.me/joinchat/EJwCAxQyIxqFMKiPduekvA)
 
 
-## Odessa
-**Odessa Microsoft .NET User Group** [Website](http://www.usergroup.od.ua) | [Facebook Group](https://www.facebook.com/groups/110079325731271/)
-
-
-## Lviv
-**Lviv .NET User Group** [Website](http://lviv.dotnet.city) | [Facebook Page](https://www.facebook.com/LvivDotNet) | [Facebook Group](https://www.facebook.com/groups/LvivDotNet) | [Twitter](https://twitter.com/lvivdotnet) | [Telegram Chat](https://t.me/lvivdotnet)
-
-
 ## Dnipro
 
 **.NET User Group Dnipro** [Facebook Page](https://www.facebook.com/NetUserGroupDnipro)
 
 
-## Kyiv
+## Ivano-Frankivsk
 
-**Kyiv F# User Group** [Facebook Page](https://www.facebook.com/Kyiv-F-User-Group-301476363381673/) | [Twitter](https://twitter.com/KyivFSharpGroup)
-
-**Kiev ALT.NET** [Facebook Group](https://www.facebook.com/groups/kievaltnet/) | [Skype](https://join.skype.com/ndoxDAUufEjW)
+**IF .NET Community** [Facebook Page](https://www.facebook.com/IFDOTNET) | [Facebook Group](https://www.facebook.com/groups/319506705199697) | [LinkedIn Group](https://www.linkedin.com/groups/12106553)
 
 
 ## Kharkiv
@@ -41,6 +32,22 @@
 **KHARKIV ALT.NET** [Website](https://kharkivalt.net) | [Twitter](https://twitter.com/kharkivaltnet) | [Facebook Page](https://www.facebook.com/kharkivaltnet) [Facebook Group](https://www.facebook.com/groups/276726623140108) | [Telegram Channel](https://t.me/kharkivaltnet)
 
 
+## Kyiv
+
+**Kyiv F# User Group** [Facebook Page](https://www.facebook.com/Kyiv-F-User-Group-301476363381673/) | [Twitter](https://twitter.com/KyivFSharpGroup)
+
+**Kiev ALT.NET** [Facebook Group](https://www.facebook.com/groups/kievaltnet/) | [Skype](https://join.skype.com/ndoxDAUufEjW)
+
+
+## Lviv
+**Lviv .NET User Group** [Website](http://lviv.dotnet.city) | [Facebook Page](https://www.facebook.com/LvivDotNet) | [Facebook Group](https://www.facebook.com/groups/LvivDotNet) | [Twitter](https://twitter.com/lvivdotnet) | [Telegram Chat](https://t.me/lvivdotnet)
+
+
+## Odessa
+
+**Odessa Microsoft .NET User Group** [Website](http://www.usergroup.od.ua) | [Facebook Group](https://www.facebook.com/groups/110079325731271/)
+
+
 ## Rivne
 
 **.NET Community Rivne** [Facebook Page](https://www.facebook.com/net.community.rv/)
@@ -49,11 +56,6 @@
 ## Ternopil
 
 **Ternopil .NET Community** [Facebook Page](https://www.facebook.com/TERNOPILDOTNET)
-
-
-## Ivano-Frankivsk
-
-**IF .NET Community** [Facebook Page](https://www.facebook.com/IFDOTNET) | [Facebook Group](https://www.facebook.com/groups/319506705199697) | [LinkedIn Group](https://www.linkedin.com/groups/12106553)
 
 
 ---
