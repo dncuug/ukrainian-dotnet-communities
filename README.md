@@ -21,3 +21,5 @@
 **Sync.NET** [Website](https://sync.net.ua) | [Facebook Page](https://www.facebook.com/SyncNETteam/) | [Meetup.com](https://www.meetup.com/sync-net-kharkiv/) | [YouTube](https://www.youtube.com/channel/UC5X18_zJ0uE3X956dlvMgBQ)
 
 **.NET learning community** [Telegram Chat](https://t.me/joinchat/EJwCAxQyIxqFMKiPduekvA)
+
+**Ternopil .NET Community** [Facebook Page](https://www.facebook.com/TERNOPILDOTNET)
