@@ -2,6 +2,8 @@
 
 ## Global Communities
 
+**Microsoft MVP Ukraine** [Website](https://mvp.microsoft.com/en-us/MvpSearch?lo=Ukraine&sc=e)
+
 **Ukrainian .NET Core User Group** [Website](https://devdigest.today/content/ukrainian-net-core-user-group) | [Telegram Channel](https://t.me/dncuug) | [Telegram Chat](https://t.me/dotnet_chat) | [Facebook Page](https://www.facebook.com/dncuug) | [Facebook Group](https://www.facebook.com/groups/dncuug)
 
 **Microsoft Azure Ukraine User Group** [Facebook Group](https://www.facebook.com/groups/azure.ua) | [Telegram Chat](https://t.me/azurechat)
