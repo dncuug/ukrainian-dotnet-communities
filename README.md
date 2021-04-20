@@ -40,6 +40,8 @@
 
 **Kiev ALT.NET** [Facebook Group](https://www.facebook.com/groups/kievaltnet/) | [Skype](https://join.skype.com/ndoxDAUufEjW)
 
+**DevRain Community** [Meetup.com](https://www.meetup.com/devrain)
+
 
 ## Lviv
 **Lviv .NET User Group** [Website](http://lviv.dotnet.city) | [Facebook Page](https://www.facebook.com/LvivDotNet) | [Facebook Group](https://www.facebook.com/groups/LvivDotNet) | [Twitter](https://twitter.com/lvivdotnet) | [Telegram Chat](https://t.me/lvivdotnet)
