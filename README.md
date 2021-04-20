@@ -49,3 +49,10 @@
 ## Ternopil
 
 **Ternopil .NET Community** [Facebook Page](https://www.facebook.com/TERNOPILDOTNET)
+
+
+
+---
+
+If you manage any Ukraine .NET community you can obtain for free subdomin like COMMUNITY-NAME.dotnet.city
+Feel free to ask [Taras Seredokha](https://t.me/devtaras)
