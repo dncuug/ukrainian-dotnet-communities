@@ -23,3 +23,5 @@
 **.NET learning community** [Telegram Chat](https://t.me/joinchat/EJwCAxQyIxqFMKiPduekvA)
 
 **Ternopil .NET Community** [Facebook Page](https://www.facebook.com/TERNOPILDOTNET)
+
+**KHARKIV ALT.NET** [Website](https://kharkivalt.net) | [Twitter](https://twitter.com/kharkivaltnet) | [Facebook Page](https://www.facebook.com/kharkivaltnet) [Facebook Group](https://www.facebook.com/groups/276726623140108) | [Telegram Channel](https://t.me/kharkivaltnet)
