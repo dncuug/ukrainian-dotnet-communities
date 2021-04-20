@@ -53,7 +53,7 @@
 
 ## Ivano-Frankivsk
 
-**IF .NET Community** [Facebook Page](https://www.facebook.com/IFDOTNET) | [Facebook Group](https://www.facebook.com/groups/319506705199697)
+**IF .NET Community** [Facebook Page](https://www.facebook.com/IFDOTNET) | [Facebook Group](https://www.facebook.com/groups/319506705199697) | [LinkedIn Group](https://www.linkedin.com/groups/12106553)
 
 
 ---
