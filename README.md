@@ -19,7 +19,7 @@
 
 ## Dnipro
 
-**.NET User Group Dnipro** [Facebook Page](https://www.facebook.com/NetUserGroupDnipro)
+**.NET User Group Dnipro** [Facebook Page](https://www.facebook.com/NetUserGroupDnipro) | [LinkedIn](https://www.linkedin.com/groups/3334014/)
 
 
 ## Ivano-Frankivsk
@@ -46,7 +46,7 @@
 
 
 ## Lviv
-**Lviv .NET User Group** [Website](http://lviv.dotnet.city) | [Facebook Page](https://www.facebook.com/LvivDotNet) | [Facebook Group](https://www.facebook.com/groups/LvivDotNet) | [Twitter](https://twitter.com/lvivdotnet) | [Telegram Chat](https://t.me/lvivdotnet)
+**Lviv .NET User Group** [Website](http://lviv.dotnet.city) | [Facebook Page](https://www.facebook.com/LvivDotNet) | [Facebook Group](https://www.facebook.com/groups/LvivDotNet) | [Twitter](https://twitter.com/lvivdotnet) | [Telegram Chat](https://t.me/lvivdotnet) | [LinkedIn](https://www.linkedin.com/groups/2752018/)
 
 
 ## Odessa
