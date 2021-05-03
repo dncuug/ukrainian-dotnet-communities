@@ -4,7 +4,7 @@
 
 **Microsoft MVP Ukraine** [Website](https://mvp.microsoft.com/en-us/MvpSearch?lo=Ukraine&sc=e)
 
-**Ukrainian .NET Core User Group** [Website](https://devdigest.today/content/ukrainian-net-core-user-group) | [Telegram Channel](https://t.me/dncuug) | [Telegram Chat](https://t.me/dotnet_chat) | [Facebook Page](https://www.facebook.com/dncuug) | [Facebook Group](https://www.facebook.com/groups/dncuug)
+**Ukrainian .NET Developer Community** [Website](https://devdigest.today/content/ukrainian-net-core-user-group) | [Telegram Channel](https://t.me/dncuug) | [Telegram Chat](https://t.me/dotnet_chat) | [Facebook Page](https://www.facebook.com/dncuug) | [Facebook Group](https://www.facebook.com/groups/dncuug)
 
 **Microsoft Azure Ukraine User Group** [Facebook Group](https://www.facebook.com/groups/azure.ua) | [Telegram Chat](https://t.me/azurechat)
 
@@ -19,7 +19,11 @@
 
 ## Dnipro
 
-**.NET User Group Dnipro** [Facebook Page](https://www.facebook.com/NetUserGroupDnipro) | [LinkedIn](https://www.linkedin.com/groups/3334014/)
+**.NET User Group Dnipro** [Facebook Page](https://www.facebook.com/NetUserGroupDnipro) | [Facebook Group](https://www.facebook.com/groups/188602987853217/) |  [LinkedIn](https://www.linkedin.com/groups/3334014/)
+
+
+## Donetsk
+Donetsk .NET UserGroup [Website(discontinued)](http://donetsk-usergroup.blogspot.com)
 
 
 ## Ivano-Frankivsk
@@ -44,19 +48,25 @@
 
 **DevRain Community** [Meetup.com](https://www.meetup.com/devrain)
 
+**FoxmindEd** [Telegram Chat](https://t.me/FoxmindEd_dotNet)
+
 
 ## Lviv
-**Lviv .NET User Group** [Website](http://lviv.dotnet.city) | [Facebook Page](https://www.facebook.com/LvivDotNet) | [Facebook Group](https://www.facebook.com/groups/LvivDotNet) | [Twitter](https://twitter.com/lvivdotnet) | [Telegram Chat](https://t.me/lvivdotnet) | [LinkedIn](https://www.linkedin.com/groups/2752018/)
+**Lviv .NET User Group** [Website](http://lviv.dotnet.city) | [Facebook Page](https://www.facebook.com/LvivDotNet) | [Facebook Group](https://www.facebook.com/groups/LvivDotNet) | [Twitter](https://twitter.com/lvivdotnet) | [Telegram Chat](https://t.me/lvivdotnet) | [LinkedIn Page](https://www.linkedin.com/company/lvivdotnet) | [LinkedIn Group](https://www.linkedin.com/groups/2752018/)
 
 
 ## Odessa
 
-**Odessa Microsoft .NET User Group** [Website](http://www.usergroup.od.ua) | [Facebook Group](https://www.facebook.com/groups/110079325731271/)
+**Odessa Microsoft .NET User Group** [Website](http://www.usergroup.od.ua) | [Facebook Group](https://www.facebook.com/groups/110079325731271/) | [LinkedIn Page](https://www.linkedin.com/company/msugodua/)
 
 
 ## Rivne
 
 **.NET Community Rivne** [Facebook Page](https://www.facebook.com/net.community.rv/)
+
+
+## Severodonetsk
+**Severodonetsk .NET User Group** [Website(discontinued)](https://www.facebook.com/groups/268629223272116)
 
 
 ## Ternopil
