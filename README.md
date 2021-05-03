@@ -76,5 +76,4 @@ Donetsk .NET UserGroup [Website(discontinued)](http://donetsk-usergroup.blogspot
 
 ---
 
-If you manage any Ukraine .NET community you can obtain for free subdomin like COMMUNITY-NAME.dotnet.city
-Feel free to ask [Taras Seredokha](https://t.me/devtaras)
+If you manage any Ukraine .NET community, you can obtain a free subdomain like COMMUNITY-NAME.dotnet.city Feel free to ask [Taras Seredokha](https://t.me/devtaras).
