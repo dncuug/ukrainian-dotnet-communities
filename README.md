@@ -1,4 +1,4 @@
-# 🇺🇦 Ukrainian .NET Communities
+# 🇺🇦 Ukrainian .NET Developer Community
 
 The entire list of communities has been moved to [our website](http://dotnet.city).
 
